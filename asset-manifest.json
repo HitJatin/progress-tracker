@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/progress-tracker/static/css/main.f7289be4.chunk.css",
-    "main.js": "/progress-tracker/static/js/main.68ec4f05.chunk.js",
-    "main.js.map": "/progress-tracker/static/js/main.68ec4f05.chunk.js.map",
-    "runtime-main.js": "/progress-tracker/static/js/runtime-main.a6b05afa.js",
-    "runtime-main.js.map": "/progress-tracker/static/js/runtime-main.a6b05afa.js.map",
-    "static/css/2.3ffd02ef.chunk.css": "/progress-tracker/static/css/2.3ffd02ef.chunk.css",
-    "static/js/2.8ee370b4.chunk.js": "/progress-tracker/static/js/2.8ee370b4.chunk.js",
-    "static/js/2.8ee370b4.chunk.js.map": "/progress-tracker/static/js/2.8ee370b4.chunk.js.map",
+    "main.css": "/progress-tracker/static/css/main.b8122b06.chunk.css",
+    "main.js": "/progress-tracker/static/js/main.4d339cb9.chunk.js",
+    "main.js.map": "/progress-tracker/static/js/main.4d339cb9.chunk.js.map",
+    "runtime-main.js": "/progress-tracker/static/js/runtime-main.ff449d50.js",
+    "runtime-main.js.map": "/progress-tracker/static/js/runtime-main.ff449d50.js.map",
+    "static/css/2.276bfa6f.chunk.css": "/progress-tracker/static/css/2.276bfa6f.chunk.css",
+    "static/js/2.f8a15f04.chunk.js": "/progress-tracker/static/js/2.f8a15f04.chunk.js",
+    "static/js/2.f8a15f04.chunk.js.map": "/progress-tracker/static/js/2.f8a15f04.chunk.js.map",
     "index.html": "/progress-tracker/index.html",
-    "precache-manifest.46df2465f87b63a92bfd590b5ea68c28.js": "/progress-tracker/precache-manifest.46df2465f87b63a92bfd590b5ea68c28.js",
+    "precache-manifest.8aca1307362272fd4fa5bdabb5069553.js": "/progress-tracker/precache-manifest.8aca1307362272fd4fa5bdabb5069553.js",
     "service-worker.js": "/progress-tracker/service-worker.js",
-    "static/css/2.3ffd02ef.chunk.css.map": "/progress-tracker/static/css/2.3ffd02ef.chunk.css.map",
-    "static/css/main.f7289be4.chunk.css.map": "/progress-tracker/static/css/main.f7289be4.chunk.css.map",
-    "static/js/2.8ee370b4.chunk.js.LICENSE.txt": "/progress-tracker/static/js/2.8ee370b4.chunk.js.LICENSE.txt"
+    "static/css/2.276bfa6f.chunk.css.map": "/progress-tracker/static/css/2.276bfa6f.chunk.css.map",
+    "static/css/main.b8122b06.chunk.css.map": "/progress-tracker/static/css/main.b8122b06.chunk.css.map",
+    "static/js/2.f8a15f04.chunk.js.LICENSE.txt": "/progress-tracker/static/js/2.f8a15f04.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6b05afa.js",
-    "static/css/2.3ffd02ef.chunk.css",
-    "static/js/2.8ee370b4.chunk.js",
-    "static/css/main.f7289be4.chunk.css",
-    "static/js/main.68ec4f05.chunk.js"
+    "static/js/runtime-main.ff449d50.js",
+    "static/css/2.276bfa6f.chunk.css",
+    "static/js/2.f8a15f04.chunk.js",
+    "static/css/main.b8122b06.chunk.css",
+    "static/js/main.4d339cb9.chunk.js"
   ]
 }
